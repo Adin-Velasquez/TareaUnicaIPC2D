@@ -1,0 +1,22 @@
+<clientes>
+    <cliente>
+        <nombre>Juan Pérez</nombre>
+        <saldo>1000</saldo>
+        <deuda>200</deuda>
+    </cliente>
+    <cliente>
+        <nombre>María López</nombre>
+        <saldo>500</saldo>
+        <deuda>150</deuda>
+    </cliente>
+    <cliente>
+        <nombre>Carlos García</nombre>
+        <saldo>750</saldo>
+        <deuda>100</deuda>
+    </cliente>
+    <cliente>
+        <nombre>Ana Torres</nombre>
+        <saldo>300</saldo>
+        <deuda>50</deuda>
+    </cliente>
+</clientes>
